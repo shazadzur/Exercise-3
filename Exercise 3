@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Who Am I</title>
+
+    <!-- Internal CSS -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f0f8ff;
+        }
+
+        h1 {
+            color: darkblue;
+            text-align: center;
+        }
+
+        .info {
+            padding: 20px;
+            background-color: #ffffff;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            width: 50%;
+            margin: 20px auto;
+        }
+    </style>
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Who Am I</h1>
+
+    <div class="info">
+        <p><strong>Name:</strong> SHAZA DZUR'AIN BINTI SANUSI</p>
+        <p style="color: green;"> <!-- Inline CSS used here -->
+            <strong>Age:</strong> 22 YEARS OLD
+        </p>
+        <p><strong>Study:</strong> STUDYING DEGREE AND STUDENT OF NEW MEDIA COMMUNICATIONAL</p>
+    </div>
+</body>
+</html>
